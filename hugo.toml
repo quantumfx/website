@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://fangxilin.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Fang Xi Lin'
 theme = 'split'
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
@@ -12,15 +12,15 @@ uglyURLs = true
 googleAnalytics = ""
 
 # Copyright
-copyright = "&copy;2021 Your Name"
+copyright = "&copy;2021 Fang Xi Lin"
 
 [params]
 
   # Metadata for search engines and social sharing
-  author = "Jenny Jones"
-  description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
-  shareImage = "images/social.jpg"
-  twitterHandle = "onepagelove"
+  author = "Fang Xi Lin"
+  description = "Fang Xi is a data scientist and swing dancer based in Toronto, Canada."
+  #shareImage = "images/social.jpg"
+  #twitterHandle = "onepagelove"
 
   # Favicon
   favicon = "favicon.ico"
@@ -68,21 +68,21 @@ copyright = "&copy;2021 Your Name"
       heading = "Social"
 
       [[params.links.list2.link]]
-        text = "Twitter"
-        url = "#"
+        text = "LinkedIn"
+        url = "https://www.linkedin.com/in/fangxilin"
+
+      [[params.links.list2.link]]
+        text = "GitHub"
+        url = "https://github.com/quantumfx/"
 
       [[params.links.list2.link]]
         text = "Instagram"
-        url = "#"
-
-      [[params.links.list2.link]]
-        text = "Dribbble"
-        url = "#"
+        url = "https://instagram.com/quantum.fx"
 
   # Links List #3
   [[params.links]]
     [params.links.list3]
-      heading = "Network"
+      heading = "Hire me"
 
       [[params.links.list3.link]]
         text = "Link One"
