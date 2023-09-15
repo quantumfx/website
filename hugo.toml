@@ -2,14 +2,14 @@ baseURL = 'https://fangxilin.com/'
 languageCode = 'en-us'
 title = 'Fang Xi Lin'
 theme = 'split'
-disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+disableKinds = ["section", "taxonomy", "term", "RSS", "sitemap"]
 
 # Local preview mode
 relativeURLs = true
 uglyURLs = true
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+# googleAnalytics = ""
 
 # Copyright
 copyright = "&copy;2021 Fang Xi Lin"
