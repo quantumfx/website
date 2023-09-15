@@ -1,4 +1,4 @@
-baseURL = 'https://fangxilin.com/'
+baseURL = 'http://fxl.netlify.app/'
 languageCode = 'en-us'
 title = 'Fang Xi Lin'
 theme = 'split'
