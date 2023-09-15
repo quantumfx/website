@@ -1,0 +1,6 @@
++++
+title = 'Private Lesson'
+date = 2023-09-15T00:08:52-04:00
+draft = true
++++
+Hire me!

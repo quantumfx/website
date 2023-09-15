@@ -12,7 +12,7 @@ uglyURLs = true
 # googleAnalytics = ""
 
 # Copyright
-copyright = "&copy;2021 Fang Xi Lin"
+copyright = "&copy;2023 Fang Xi Lin"
 
 [params]
 
@@ -46,11 +46,11 @@ copyright = "&copy;2021 Fang Xi Lin"
   # Links List #1
   [[params.links]]
     [params.links.list1]
-      heading = "Connect"
+      heading = "Data Science"
 
       [[params.links.list1.link]]
-        text = "Blog"
-        url = "#"
+        text = "Resume&#769; / CV"
+        url = "files/FangXi-Lin-data-scientist.pdf"
         new_tab = true # new tab
 
       [[params.links.list1.link]]
@@ -59,42 +59,45 @@ copyright = "&copy;2021 Fang Xi Lin"
         new_tab = false # Default, open at same tab
 
       [[params.links.list1.link]]
-        text = "Newsletter"
+        text = "Projects"
         url = "#"
 
   # Links List #2
   [[params.links]]
     [params.links.list2]
-      heading = "Social"
+      heading = "Dance"
 
       [[params.links.list2.link]]
-        text = "LinkedIn"
-        url = "https://www.linkedin.com/in/fangxilin"
+        text = "Private lesson"
+        url = "private-lesson"
 
       [[params.links.list2.link]]
-        text = "GitHub"
+        text = "Teaching"
         url = "https://github.com/quantumfx/"
 
       [[params.links.list2.link]]
-        text = "Instagram"
+        text = "Projects"
         url = "https://instagram.com/quantum.fx"
 
   # Links List #3
   [[params.links]]
     [params.links.list3]
-      heading = "Hire me"
+      heading = "Social"
 
       [[params.links.list3.link]]
-        text = "Link One"
-        url = "#"
+        text = "LinkedIn"
+        url = "https://www.linkedin.com/in/fangxilin"
+        new_tab = false # Default, open at same tab
 
       [[params.links.list3.link]]
-        text = "Link Two"
-        url = "#"
+        text = "GitHub"
+        url = "https://github.com/quantumfx/"
+        new_tab = false # Default, open at same tab
 
       [[params.links.list3.link]]
-        text = "Link Three"
-        url = "#"
+        text = "Instagram"
+        url = "https://instagram.com/quantum.fx"
+        new_tab = false # Default, open at same tab
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
