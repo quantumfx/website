@@ -6,7 +6,7 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "sitemap"]
 
 # Local preview mode
 relativeURLs = true
-uglyURLs = true
+uglyURLs = false
 
 # Enter your tracking code to enable Google Analytics
 # googleAnalytics = ""
@@ -49,18 +49,18 @@ copyright = "&copy;2023 Fang Xi Lin"
       heading = "Data Science"
 
       [[params.links.list1.link]]
-        text = "Resume&#769; / CV"
+        text = "Resumé / CV"
         url = "files/FangXi-Lin-data-scientist.pdf"
         new_tab = true # new tab
 
       [[params.links.list1.link]]
-        text = "Email"
-        url = "#"
-        new_tab = false # Default, open at same tab
+        text = "Projects"
+        url = "projects"
 
       [[params.links.list1.link]]
-        text = "Projects"
-        url = "#"
+        text = "Contact Me"
+        url = "contact-me"
+        new_tab = false # Default, open at same tab
 
   # Links List #2
   [[params.links]]
@@ -73,11 +73,11 @@ copyright = "&copy;2023 Fang Xi Lin"
 
       [[params.links.list2.link]]
         text = "Teaching"
-        url = "https://github.com/quantumfx/"
+        url = "teaching"
 
-      [[params.links.list2.link]]
-        text = "Projects"
-        url = "https://instagram.com/quantum.fx"
+    #   [[params.links.list2.link]]
+    #     text = "Projects"
+    #     url = "https://instagram.com/quantum.fx"
 
   # Links List #3
   [[params.links]]
