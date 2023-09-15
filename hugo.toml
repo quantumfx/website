@@ -57,10 +57,10 @@ copyright = "&copy;2023 Fang Xi Lin"
         text = "Projects"
         url = "projects"
 
-      [[params.links.list1.link]]
-        text = "Contact Me"
-        url = "contact-me"
-        new_tab = false # Default, open at same tab
+    #   [[params.links.list1.link]]
+    #     text = "Contact Me"
+    #     url = "contact-me"
+    #     new_tab = false # Default, open at same tab
 
   # Links List #2
   [[params.links]]
@@ -82,21 +82,26 @@ copyright = "&copy;2023 Fang Xi Lin"
   # Links List #3
   [[params.links]]
     [params.links.list3]
-      heading = "Social"
+      heading = "Contact"
 
       [[params.links.list3.link]]
         text = "LinkedIn"
         url = "https://www.linkedin.com/in/fangxilin"
         new_tab = false # Default, open at same tab
 
-      [[params.links.list3.link]]
-        text = "GitHub"
-        url = "https://github.com/quantumfx/"
-        new_tab = false # Default, open at same tab
+    #   [[params.links.list3.link]]
+    #     text = "GitHub"
+    #     url = "https://github.com/quantumfx/"
+    #     new_tab = false # Default, open at same tab
 
       [[params.links.list3.link]]
         text = "Instagram"
         url = "https://instagram.com/quantum.fx"
+        new_tab = false # Default, open at same tab
+
+      [[params.links.list3.link]]
+        text = "Email"
+        url = "mailto:contact@fangxilin.com"
         new_tab = false # Default, open at same tab
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
