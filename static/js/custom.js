@@ -1,10 +1,10 @@
-// let sidebar = document.querySelector(".sidebar");
-
-let top = localStorage.getItem("window-scroll");
-if (top !== null) {
-  document.body.scrollTop = parseInt(top, 10);
+let topScroll = localStorage.getItem("window-scroll");
+if (topScroll !== null) {
+  // window.scrollTo(0, parseInt(topScroll, 10) );
+  document.documentElement.scrollTop = parseInt(topScroll, 10);
 }
 
 window.addEventListener("beforeunload", () => {
-  localStorage.setItem("window-scroll", document.body.scrollTop);
+  // localStorage.setItem("window-scroll", window.scrollY);
+  localStorage.setItem("window-scroll", document.documentElement.scrollTop);
 });
