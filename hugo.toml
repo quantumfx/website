@@ -29,7 +29,7 @@ copyright = "&copy;2023 Fang Xi Lin"
     enable = true
 
   [params.custom.css]
-    enable = false
+    enable = true
 
   # Section - Visual
   [params.visual]
