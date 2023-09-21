@@ -25,7 +25,7 @@ copyright = "&copy;2023 Fang Xi Lin"
   # Favicon
   favicon = "favicon.ico"
 
-  custom_js = ["js/custom.js"]
+  js = ["js/custom.js"]
 
   # Section - Visual
   [params.visual]
