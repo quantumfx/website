@@ -1,0 +1,4 @@
+<!-- custom JS -->
+{{ range .Site.Params.custom_js -}}
+    <script type="text/javascript" src="{{ . | absURL }}"></script>
+{{- end }}
