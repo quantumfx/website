@@ -55,13 +55,13 @@ copyright = "&copy;2023 Fang Xi Lin"
       heading = "Data Science"
 
       [[params.links.list1.link]]
-        text = "Resumé / CV"
-        url = "files/FangXi-Lin-data-scientist.pdf"
+        text = "Resumé"
+        url = "/files/FangXi-Lin-data-scientist.pdf"
         new_tab = true # new tab
 
       [[params.links.list1.link]]
         text = "Projects"
-        url = "projects"
+        url = "/projects"
 
     #   [[params.links.list1.link]]
     #     text = "Contact Me"
@@ -75,11 +75,11 @@ copyright = "&copy;2023 Fang Xi Lin"
 
       [[params.links.list2.link]]
         text = "Private lesson"
-        url = "private-lesson"
+        url = "/private-lesson"
 
       [[params.links.list2.link]]
         text = "Teaching"
-        url = "teaching"
+        url = "/teaching"
 
     #   [[params.links.list2.link]]
     #     text = "Projects"
