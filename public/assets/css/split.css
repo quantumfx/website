@@ -192,6 +192,7 @@ body.page-template-page-fullsingle-split p {
   margin-bottom: 40px;
   letter-spacing: 0.4px;
   color: #47bec7;
+  transition-duration: 0.5s;
 }
 .split-intro .tagline {
   color: #CCCCCC;
