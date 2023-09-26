@@ -63,10 +63,10 @@ copyright = "&copy;2023 Fang Xi Lin"
         text = "Projects"
         url = "/projects"
 
-    #   [[params.links.list1.link]]
-    #     text = "Contact Me"
-    #     url = "contact-me"
-    #     new_tab = false # Default, open at same tab
+      [[params.links.list1.link]]
+        text = "GitHub"
+        url = "https://github.com/quantumfx"
+        new_tab = true # Default, open at same tab
 
   # Links List #2
   [[params.links]]

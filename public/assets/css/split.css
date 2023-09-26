@@ -196,6 +196,10 @@ body.page-template-page-fullsingle-split p {
 .split-intro .tagline {
   color: #CCCCCC;
 }
+.split-intro a:hover {
+  color: #CCCCCC;
+  transition-duration: 0.1s;
+}
 
 .split-bio {
   padding: 40px 0 20px 0;
