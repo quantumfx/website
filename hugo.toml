@@ -84,6 +84,7 @@ copyright = "&copy;2023 Fang Xi Lin"
       [[params.links.list2.link]]
         text = "Community Calendar"
         url = "https://torontoswingcalendar.com/"
+        new_tab = true # Default, open at same tab
 
   # Links List #3
   [[params.links]]
@@ -94,11 +95,6 @@ copyright = "&copy;2023 Fang Xi Lin"
         text = "LinkedIn"
         url = "https://www.linkedin.com/in/fangxilin"
         new_tab = false # Default, open at same tab
-
-    #   [[params.links.list3.link]]
-    #     text = "GitHub"
-    #     url = "https://github.com/quantumfx/"
-    #     new_tab = false # Default, open at same tab
 
       [[params.links.list3.link]]
         text = "Instagram"
