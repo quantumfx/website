@@ -9,4 +9,4 @@ I am available for hire for private lessons in Lindy Hop, Charleston, and Colleg
 * $80/hr for an individual
 * $100/hr for a couple
 
-If these are unaffordable to you, please let me know! I want to share the love of dance first and foremost. Email me at [private@fangxilin.com](mailto:private@fangxilin.com).
+If these are unaffordable to you, please let me know! I want to share the love of dance first and foremost. Email me at [private@fangxilin.com](mailto:private@fangxilin.com), or message me on my [Instagram](https://instagram.com/quantum.fx).
