@@ -82,7 +82,7 @@ copyright = "&copy;2023 Fang Xi Lin"
         url = "/teaching"
 
       [[params.links.list2.link]]
-        text = "Community Calendar"
+        text = "Calendar"
         url = "https://torontoswingcalendar.com/"
         new_tab = true # Default, open at same tab
 
