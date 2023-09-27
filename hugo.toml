@@ -103,7 +103,7 @@ copyright = "&copy;2023 Fang Xi Lin"
 
       [[params.links.list3.link]]
         text = "Email"
-        url = "mailto:contact@fangxilin.com"
+        url = "mailto:fangxi@fangxilin.com"
         new_tab = false # Default, open at same tab
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
