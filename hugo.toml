@@ -81,9 +81,9 @@ copyright = "&copy;2023 Fang Xi Lin"
         text = "Teaching"
         url = "/teaching"
 
-    #   [[params.links.list2.link]]
-    #     text = "Projects"
-    #     url = "https://instagram.com/quantum.fx"
+      [[params.links.list2.link]]
+        text = "Community Calendar"
+        url = "https://torontoswingcalendar.com/"
 
   # Links List #3
   [[params.links]]
