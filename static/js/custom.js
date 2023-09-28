@@ -13,7 +13,7 @@ function iOS() {
   ].includes(platform)
   // iPad on iOS 13 detection
   || (navigator.userAgent.includes("Mac") && "ontouchend" in document)
-};
+}
 
 export const scrollElementIntoView = (element: HTMLElement, behavior?: 'smooth' | 'instant' | 'auto') => {
 
@@ -29,7 +29,7 @@ export const scrollElementIntoView = (element: HTMLElement, behavior?: 'smooth' 
     top: finalOffset,
     behavior: behavior || 'auto'
   })
-};
+}
 
 let tagline = document.querySelector(".tagline");
 
@@ -42,7 +42,7 @@ if (topScroll !== null) {
   else {
     document.documentElement.scrollTop = parseInt(tagline.offsetTop, 10);
   }
-};
+}
 
 window.addEventListener("beforeunload", () => {
   localStorage.setItem("window-scroll", true);
