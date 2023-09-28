@@ -29,7 +29,7 @@ export const scrollElementIntoView = (element: HTMLElement, behavior?: 'smooth' 
     top: finalOffset,
     behavior: behavior || 'auto'
   })
-}
+};
 
 let tagline = document.querySelector(".tagline");
 
@@ -37,7 +37,7 @@ let tagline = document.querySelector(".tagline");
 let topScroll = localStorage.getItem("window-scroll");
 if (topScroll !== null) {
   if (iOS() == true) {
-    scrollElementIntoView(tagline,'instant')
+    scrollElementIntoView(tagline,'instant');
   }
   else {
     document.documentElement.scrollTop = parseInt(tagline.offsetTop, 10);
