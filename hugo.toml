@@ -74,16 +74,16 @@ copyright = "&copy;2023 Fang Xi Lin"
       heading = "Dance"
 
       [[params.links.list2.link]]
-        text = "Private lesson"
-        url = "/private-lesson"
+        text = "Private Lessons"
+        url = "/private-lessons"
 
       [[params.links.list2.link]]
         text = "Teaching"
         url = "/teaching"
 
       [[params.links.list2.link]]
-        text = "Calendar"
-        url = "https://torontoswingcalendar.com/"
+        text = "Community Calendar"
+        url = "https://swing-dance.notion.site/Monthly-Calendar-af2dcda555f44150a1a22372ec179c62"
         new_tab = true # Default, open at same tab
 
   # Links List #3
