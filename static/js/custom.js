@@ -21,9 +21,9 @@ export const scrollElementIntoView = (element: HTMLElement, behavior?: 'smooth' 
 
   // Furthermore, if you have for example a header outside the iframe 
   // you need to factor in its dimensions when calculating the position to scroll to
-  const headerOutsideIframe = window.parent.document.getElementsByClassName('myHeader')[0].clientHeight
+  // const headerOutsideIframe = window.parent.document.getElementsByClassName('myHeader')[0].clientHeight
 
-  const finalOffset = element.getBoundingClientRect().top + scrollTop + headerOutsideIframe
+  const finalOffset = element.getBoundingClientRect().top + scrollTop// + headerOutsideIframe
 
   window.parent.scrollTo({
     top: finalOffset,
