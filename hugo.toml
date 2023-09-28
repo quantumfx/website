@@ -94,17 +94,17 @@ copyright = "&copy;2023 Fang Xi Lin"
       [[params.links.list3.link]]
         text = "LinkedIn"
         url = "https://www.linkedin.com/in/fangxilin"
-        new_tab = false # Default, open at same tab
+        new_tab = true # Default, open at same tab
 
       [[params.links.list3.link]]
         text = "Instagram"
         url = "https://instagram.com/quantum.fx"
-        new_tab = false # Default, open at same tab
+        new_tab = true # Default, open at same tab
 
       [[params.links.list3.link]]
         text = "Email"
         url = "mailto:fangxi@fangxilin.com"
-        new_tab = false # Default, open at same tab
+        new_tab = true # Default, open at same tab
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
