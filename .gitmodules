@@ -1,3 +1,3 @@
 [submodule "themes/split"]
 	path = themes/split
-	url = git@github.com:quantumfx/hugo-split-theme.git
+	url = https://github.com/quantumfx/hugo-split-theme.git
