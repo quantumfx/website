@@ -139,6 +139,10 @@ select {
 	color: var(--color-dark);
 }
 
+a {
+	color: var(--color-secondary);
+}
+
 ul {
 	list-style: none;
 	padding-left: var(--spacing-lg);
