@@ -25,7 +25,7 @@
 	--spacing-xl: 2.5rem;
 
 	/* BORDER */
-	--border-size: 2px;
+	--border-size: 1px;
 	--border-radius: var(--spacing-sm);
 	--border-radius-inner: var(--spacing-xsm);
 	--border-radius-btn: var(--spacing-xsm);
@@ -56,6 +56,7 @@
 
 body {
 	font-family: 'Montserrat', sans-serif;
+	color: var(--color-dark);
 	margin: var(--spacing-xl);
 }
 
@@ -135,6 +136,7 @@ label,
 option,
 select {
 	font-family: 'Montserrat', sans-serif;
+	color: var(--color-dark);
 }
 
 ul {
@@ -385,6 +387,10 @@ input[type='submit']:hover {
 	text-align: center;
 	padding: 0.5rem 1rem;
 	line-height: 150%;
+}
+
+#row_i123677_Terms .inputcell {
+	text-align: center;
 }
 
 #row_i119817_Terms,
