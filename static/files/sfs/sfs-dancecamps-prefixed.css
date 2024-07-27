@@ -9,12 +9,6 @@
 
 :root {
 	/* COLOR */
-	/* --color-dark: #000;
-	--color-neutral: #fff;
-	--color-primary: #008080;
-	--color-secondary: #d97f76;
-	--color-error: #cc0000;
-	--color-theme: var(--color-primary); */
 	--color-dark: #000;
 	--color-neutral: #606060;
 	--color-primary: #ff8738;
@@ -172,10 +166,9 @@ li label {
 	margin-bottom: var(--spacing-lg);
 }
 
-#Introduction img {
-	-webkit-animation: wiggle 5s linear infinite;
-	        animation: wiggle 5s linear infinite;
-}
+/* #Introduction img {
+	animation: wiggle 5s linear infinite;
+} */
 
 #Introduction p,
 #BookingsClosedText p {
