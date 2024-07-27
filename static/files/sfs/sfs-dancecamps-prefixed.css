@@ -275,7 +275,8 @@ textarea {
 	font-size: var(--font-size-md);
 	border-style: solid;
 	border-color: var(--color-dark);
-	color: var(--color-secondary)
+	color: var(--color-secondary);
+	border-width: var(--border-size);
 }
 
 input[type='text']:focus-visible,
@@ -393,7 +394,7 @@ input[type='submit']:hover {
 	line-height: 150%;
 }
 
-#row_i123677_Terms .inputcell {
+#row_i123706_Terms .inputcell {
 	text-align: center;
 }
 
