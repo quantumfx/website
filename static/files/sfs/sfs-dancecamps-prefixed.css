@@ -9,8 +9,8 @@
 
 :root {
 	/* COLOR */
-	--color-dark: #000;
-	--color-neutral: #606060;
+	--color-dark: #606060;
+	--color-neutral: #fff;
 	--color-primary: #ff8738;
 	--color-secondary: #0077c7;
 	--color-error: red;
@@ -158,7 +158,6 @@ li label {
 	font-family: 'Sriracha', cursive;
 	font-size: var(--font-size-xl);
 	text-align: center;
-	color: var(--color-primary);
 }
 
 #Introduction,
