@@ -56,7 +56,7 @@ copyright = "&copy;2023 Fang Xi Lin, Ph.D., Photo by <a href='https://instagram.
 
       [[params.links.list1.link]]
         text = "Resumé"
-        url = "/files/FangXi-Lin-data-scientist.pdf"
+        url = "/files/FangXi-Lin-CV.pdf"
         new_tab = true # new tab
 
       [[params.links.list1.link]]
